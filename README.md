@@ -1,7 +1,7 @@
 # NSString-Extra
 给NSString增加一些实用的分类
 
-1.MD5加密解密
+1.MD5加密解密\n
 2.HMAC加密解解密
   >包含服务器时间的HMAC加密
 3.hsa1/256/512的加密解密
